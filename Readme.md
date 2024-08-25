@@ -12,4 +12,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ShawilBhargav&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
+---
 ![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3JuNXpqM212OWN4amI2c3RyY3BtNXNpbXF3Y2J1NXlldWtkaGQ0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/j5nYMIr2OwTEUiwuk4/giphy.webp)
+
+[![](https://visitcount.itsvg.in/api?id=ShawilBhargav&icon=10&color=9)](https://visitcount.itsvg.in)
