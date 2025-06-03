@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=190&section=header&text=Shawil%20Bhargav&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20|%20AI/ML%20Enthusiast%20|%20Full%20Stack%20Developer&descAlignY=55&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=5B3256&height=190&section=header&text=Shawil%20Bhargav&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20|%20AI/ML%20Enthusiast%20|%20Full%20Stack%20Developer&descAlignY=55&descAlign=50" width="100%" />
 </div>
 
 # 💫 About Me:
